@@ -16,6 +16,7 @@ The sister site [ញុំាបាយ.com](http://ញុំាបាយ.com/) i
 
 That's [wrongly encoded](https://marc.durdin.net/2017/03/when-phishers-eat-rice/).
 
+![Different encodings](https://marc.durdin.net/wp-content/uploads/2017/03/nham-three-times.png)
 
 # ញុំាបាយ.com vs ញ៉ាំបាយ.com
 
