@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# ញ៉ាំបាយ.com
 
-You can use the [editor on GitHub](https://github.com/mcdurdin/nyambaay-good/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site is:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- ញ៉ាំបាយ.com
+- xn--r2ewp8ib8gta.com
+- U+1789 U+17C9 U+17B6 U+17C6  U+1794 U+17B6 U+1799
 
-### Markdown
+That's the correct encoding.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The sister site [ញុំាបាយ.com](http://ញុំាបាយ.com/) is
 
-```markdown
-Syntax highlighted code block
+- ញុំាបាយ.com
+- xn--r2ewp8ib1a1f.com
+- U+1789 U+17BB U+17C6  U+1794 U+17B6 U+1799
 
-# Header 1
-## Header 2
-### Header 3
+That's [wrongly encoded](https://marc.durdin.net/2017/03/when-nyam-meets-nyam/).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# ញុំាបាយ.com vs ញ៉ាំបាយ.com
 
-**Bold** and _Italic_ and `Code` text
+Why is this a problem? If you are viewing this site on a Mac or iOS device, you'll see a dotted circle in the middle of the name of this site. However, on current Windows and Android devices (by far the majority in Cambodia), you cannot see any difference between these names. And both sites have certificates. What if one was a bank?
 
-[Link](url) and ![Image](src)
-```
+This was an experiment to see (a) how viable Khmer domain names were, and (b) how much of a problem these rendering issues are.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcdurdin/nyambaay-good/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Learn more about the problem on my blog post](https://marc.durdin.net/2017/03/when-nyam-meets-nyam/).
