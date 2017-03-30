@@ -8,7 +8,7 @@ This site is:
 
 That's the correct encoding.
 
-The sister site [ញុំាបាយ.com](http://ញុំាបាយ.com/) is
+The sister site [ញុំាបាយ.com](https://ញុំាបាយ.com/) is
 
 - ញុំាបាយ.com
 - xn--r2ewp8ib1a1f.com
@@ -20,7 +20,7 @@ That's [wrongly encoded](https://marc.durdin.net/2017/03/when-phishers-eat-rice/
 
 # ញុំាបាយ.com vs ញ៉ាំបាយ.com
 
-Why is this a problem? If you are viewing this site on a Mac or iOS device, you'll see a dotted circle in the middle of the name of this site. However, on current Windows and Android devices (by far the majority in Cambodia), you cannot see any difference between these names. And both sites have certificates. What if one was a bank?
+Why is this a problem? If you are viewing this site on a Mac or iOS device, you'll see a dotted circle in the middle of the name of this site. However, on current Windows and Android devices (by far the majority in Cambodia), there will either not be any difference between these names, or the difference will be so subtle that you almost certainly won't notice it. You can see that both sites have certificates. What if one was a bank?
 
 This was an experiment to see (a) how viable Khmer domain names were, and (b) how much of a problem these rendering issues are.
 
