@@ -12,7 +12,7 @@ The sister site [ញុំាបាយ.com](https://ញុំាបាយ.com/) 
 
 - ញុំាបាយ.com
 - xn--r2ewp8ib1a1f.com
-- U+1789 U+17BB U+17C6  U+1794 U+17B6 U+1799
+- U+1789 U+17BB U+17C6 U+17B6  U+1794 U+17B6 U+1799
 
 That's [wrongly encoded](https://marc.durdin.net/2017/03/when-phishers-eat-rice/).
 
